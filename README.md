@@ -30,7 +30,7 @@
 
 
 ## Create an endpoint which returns the number of each occurrence of domain names in the database - i.e. (“gmail.com”, “outlook.com”, “hotmail.com”) pay attention to the time complexity of your implementation
-### I used a ahshmap to count the different domains. Here is the request information of the endpoint:
+### I used a hashmap to count the different domains. Here is the request information of the endpoint:
 ### Count Domains
 ### GET http://localhost:8080/domainCounts
 
