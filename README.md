@@ -58,5 +58,5 @@
 ### insert your target id on {id}
 
 
-## Note: Since it is not specified I did not implement jwt authentication, aouthorization and dockerization.
+## Note: Since it is not specified I did not implement jwt authentication, authorization and dockerization.
   
