@@ -1,5 +1,5 @@
 # CodingChallenge
-## I used  Lombok, Spring Web, Spring Data, JPA and Spring Security in this project.
+## I used  Lombok, Spring Web, Spring Data, JPA and Spring Security in this project. You can test the project by running FoundationProjectApplication.java file. Since it is like a foundation to a project I give the name foundation project. 
 
 ## Requirements:
 ## Initialise an embed database for saving users, such a: H2, Derby or HSQLDB - the dependencies for these can be found in Spring Initializr
